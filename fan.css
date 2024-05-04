@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(3, 72, 72);
+}
+nav.logo{
+    width: 100%;
+
+   
+}
+
+.logo-text{
+    font-size: 40px;
+    color: white;
+
+}
+.nav2{
+    height: 50px;
+    width: 100%;
+    background-color:white;
+}
+.nav2 ul li{
+    display: flex;
+    justify-content: space-between;
+
+}
